@@ -2,7 +2,7 @@
 
 **Research Lab:** CARL@CUT – Computer Architecture Research Lab  
 **Supervisor:** Professor Andreas Diavastos  
-**Author:** Michalis Gavriel, Giannis Loizou, Alexandros Pelekanos  
+**Authors:** Michalis Gavriel, Giannis Loizou, Alexandros Pelekanos  
 
 ---
 
